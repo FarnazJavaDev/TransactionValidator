@@ -29,3 +29,6 @@ There are two validations:
 
 At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.
 
+**to build the project please use this command** 
+
+`./mvnw clean package`
